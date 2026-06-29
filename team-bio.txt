@@ -1,3 +1,8 @@
+Marta
+About me: I recently graduated from Programming Specialist program, studied Java, Python,
+Databases, Data Structures and algorithms, and so on. My hobbies are hiking, swimming, reading and making jewellery.
+
+Goals for the bootcamp: Meet new people, gain more confidence in myself and feedback from my teammates.
 ---
 Hello, I am Evalds. I like playing table tennis and making software, weather it be games or web based applications.
 
