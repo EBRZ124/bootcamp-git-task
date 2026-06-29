@@ -3,3 +3,6 @@ I have finished Ventspils University of Applied Sciences.
 I teach Java and Spring Boot to students from 9th to 12th grade.
 I also teach Python to the same student group.
 
+I want to learn how to work in teams.
+I want to improve my tech skills and presentation skills.
+I want to learn more about security.
