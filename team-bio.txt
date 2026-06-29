@@ -1,1 +1,5 @@
+My name is Karina and I am from Ventspils.
+I have finished Ventspils University of Applied Sciences.
+I teach Java and Spring Boot to students from 9th to 12th grade.
+I also teach Python to the same student group.
 
