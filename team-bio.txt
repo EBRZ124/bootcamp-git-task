@@ -23,3 +23,7 @@ I love reading books.
 I would like to gain hands-on experience within a team.
 I would like to be comfortable to be able to explain my codes.
 I would like to have in depth knowledge about Java.
+
+My name is Adrijus, and I am from Lithuania. I am currently studying at Vilnius Tech University in Vilnius. I enjoy learning new things and gaining as much new knowledge as possible. In my free time, I like programming large-scale applications from the very beginning all the way to a finished product. I also enjoy reading books, especially when they help me grow, learn new ideas, or improve the way I think. I am also heavily into sports and a healthy lifestyle. When it comes to coding, I would honestly call myself a bit of a maniac, because I genuinely enjoy doing it in my free time just because I like it. Also, not to brag, but for those who know what HYROX is, I completed my first ever HYROX a few weeks ago in Riga.
+
+During this bootcamp, I want to gain more technical and practical knowledge that I can apply in real projects. I also want to become better at working in a team, communicating with other developers, using Git properly, and understanding how collaborative development works in practice. Another important goal for me is to learn more about databases and Spring Boot, so I can become more confident in backend development and build more reliable applications.
