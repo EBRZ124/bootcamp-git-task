@@ -3,3 +3,10 @@ Hello, I am Evalds. I like playing table tennis and making software, weather it 
 
 In this bootcamp, I want to learn to be a proper junior developer using the spring boot framework, learn how to test spring web apps, and utilise databases.
 ---
+Hello! I am Zeynep I am from Turkey.
+I have been living in Latvia for 5 years.
+I love reading books.
+
+I would like to gain hands-on experience within a team.
+I would like to be comfortable to be able to explain my codes.
+I would like to have in depth knowledge about Java.
