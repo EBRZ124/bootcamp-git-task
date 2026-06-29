@@ -1,3 +1,8 @@
+---
+Hello, I am Evalds. I like playing table tennis and making software, weather it be games or web based applications.
+
+In this bootcamp, I want to learn to be a proper junior developer using the spring boot framework, learn how to test spring web apps, and utilise databases.
+---
 My name is Karina and I am from Ventspils.
 I have finished Ventspils University of Applied Sciences.
 I teach Java and Spring Boot to students from 9th to 12th grade.
