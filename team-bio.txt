@@ -1,1 +1,3 @@
-
+Marta
+About me: I recently graduated from Programming Specialist program, studied Java, Python,
+Databases, Data Structures and algorithms, and so on. My hobbies are hiking, swimming, reading and making jewellery.
