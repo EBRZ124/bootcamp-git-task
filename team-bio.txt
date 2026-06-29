@@ -1,1 +1,5 @@
+---
 Hello, I am Evalds. I like playing table tennis and making software, weather it be games or web based applications.
+
+In this bootcamp, I want to learn to be a proper junior developer using the spring boot framework, learn how to test spring web apps, and utilise databases.
+---
