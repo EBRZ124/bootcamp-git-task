@@ -3,3 +3,23 @@ About me: I recently graduated from Programming Specialist program, studied Java
 Databases, Data Structures and algorithms, and so on. My hobbies are hiking, swimming, reading and making jewellery.
 
 Goals for the bootcamp: Meet new people, gain more confidence in myself and feedback from my teammates.
+---
+Hello, I am Evalds. I like playing table tennis and making software, weather it be games or web based applications.
+
+In this bootcamp, I want to learn to be a proper junior developer using the spring boot framework, learn how to test spring web apps, and utilise databases.
+---
+My name is Karina and I am from Ventspils.
+I have finished Ventspils University of Applied Sciences.
+I teach Java and Spring Boot to students from 9th to 12th grade.
+I also teach Python to the same student group.
+
+I want to learn how to work in teams.
+I want to improve my tech skills and presentation skills.
+I want to learn more about security.
+Hello! I am Zeynep I am from Turkey.
+I have been living in Latvia for 5 years.
+I love reading books.
+
+I would like to gain hands-on experience within a team.
+I would like to be comfortable to be able to explain my codes.
+I would like to have in depth knowledge about Java.
